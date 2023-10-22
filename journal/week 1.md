@@ -577,3 +577,7 @@ When you create a folder with a specific name inside the "pages" directory, it r
 For example, if you have a folder named "products" within the "pages" directory, with a file named "index.js" inside it, the resulting URL path for that page would be "/products". Additionally, if you create another file named "shoes.js" within the "products" folder, it would be accessible at the "/products/shoes" route.
 This hierarchical structure allows you to create nested routes and organize your application's pages logically. It is particularly useful for building complex applications with multiple levels of routes, such as e-commerce sites with category pages and product details pages.
 By leveraging the folder structure in Next.js, you can create a clean and intuitive routing system that reflects the structure of your application and improves maintainability.
+
+- [x] [Setting up auth flow](https://courses.jsmastery.pro/course/ultimate-next-js-13-course-ebook/learn/module-authentication/setup-auth-for-devflow)
+
+[building layout](https://courses.jsmastery.pro/course/ultimate-next-js-13-course-ebook/learn/module-layouts/creating-layouts-using-next-font-and-metadata-in-devflow)
