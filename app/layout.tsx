@@ -44,7 +44,6 @@ export default function RootLayout({
           <ThemeProvider>{children}</ThemeProvider>
         </ClerkProvider>
       </body>
-      <h1 className="h1-bold">This is a text</h1>
     </html>
   );
 }
