@@ -1,8 +1,8 @@
 # Week 2
 
-- [ ] Defining a ThemeContext using the createContext function from React.
-- [ ] Interface ThemeContextType that defines the mode and setMode properties.
-- [ ] The ThemeProvider component is also defined, which takes in children as a prop and returns a ThemeContext.Provider with the value set to an object containing the mode and setMode properties.
+- [x] Defining a ThemeContext using the createContext function from React.
+- [x] Interface ThemeContextType that defines the mode and setMode properties.
+- [x] The ThemeProvider component is also defined, which takes in children as a prop and returns a ThemeContext.Provider with the value set to an object containing the mode and setMode properties.
 
 ## ThemeProvider : globally accessible theme state
 
